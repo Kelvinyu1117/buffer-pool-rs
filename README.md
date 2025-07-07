@@ -1,2 +1,2 @@
-# bustub-rs
-A rust clone of database from cmu-db course
+# buffer-pool-rs
+A Rust implementation of buffer pool
